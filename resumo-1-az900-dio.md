@@ -1,5 +1,6 @@
 # Az900-DIO
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+
 Azure
 Microsoft Azure é uma plataforma de computação em nuvem que oferece mais de 200 produtos e serviços, como máquinas virtuais, bancos de dados, inteligência artificial, e muito mais. Com Azure, você pode criar, gerenciar e implantar aplicativos em uma rede global de data centers, utilizando as ferramentas e frameworks de sua escolha.
 
